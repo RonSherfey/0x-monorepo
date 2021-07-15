@@ -41,7 +41,7 @@
         "typescript": "3.0.1"
     },
     "dependencies": {
-        "@types/node": "12.12.54",
+        "@types/node": "15.12.4",
         "bignumber.js": "~9.0.0"
     },
     "publishConfig": {
